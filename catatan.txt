@@ -15,3 +15,7 @@
     copy token pada:  
         https://dashboard.stripe.com/test/apikeys
     kemudian paste pada public/browser-app.js
+
+#Section 12: Stripe Payment | 237. Controller Setup
+    pada browser lakukan refresh : http://localhost:3000/
+    dan lihat pada terminal 
