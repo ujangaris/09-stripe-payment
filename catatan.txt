@@ -1,0 +1,17 @@
+#Section 12: Stripe Payment | 233. Setup
+    npm install && npm start
+    browser : http://localhost:3000/
+
+#Section 12: Stripe Payment | 234. General Overview
+
+#Section 12: Stripe Payment | 235. API Keys
+    link : https://stripe.com/id-us
+
+#Section 12: Stripe Payment | 236. Follow Overview
+    setelah berhasil daftar, login ke stripe.com
+    Documentation: https://stripe.com/docs/checkout/quickstart
+        pilih frondend: HTML , Backend:Node
+
+    copy token pada:  
+        https://dashboard.stripe.com/test/apikeys
+    kemudian paste pada public/browser-app.js
